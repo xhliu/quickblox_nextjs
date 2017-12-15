@@ -1,5 +1,7 @@
-Created by "create-next-app --example custom-server-express quickblox"
+## How is the project created
+`create-next-app --example custom-server-express quickblox`
 
-To run:
-bower install quickblox --save
-npm install && npm run dev
+## How to run
+`bower install quickblox --save`
+
+`npm install && npm run dev`
